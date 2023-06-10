@@ -1,0 +1,23 @@
+{
+  "name": "karen89.github.io",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karen89/karen89.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karen89/karen89.github.io/issues"
+  },
+  "homepage": "https://github.com/karen89/karen89.github.io#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
