@@ -1,5 +1,4 @@
 import React from "react";
-//import { CodeIcon } from "@heroicons/react/solid";
 
 export default function About() {
     return (
