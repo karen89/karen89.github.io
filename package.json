@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server/index.js"
+
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,13 @@
   },
   "homepage": "https://github.com/karen89/karen89.github.io#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "@craco/craco": "^5.9.0",
+    "@heroicons/react": "^1.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "postcss": "^7.0.36",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
   }
 }
