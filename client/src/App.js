@@ -1,6 +1,12 @@
 import React from "react";
 import logo from './logo.svg';
 import './App.css';
+import About from "./components/About";
+import Contact from "./components/Contact";
+import Navbar from "./components/Navbar";
+import Projects from "./components/Projects";
+import Skills from "./components/Skills";
+import Home from "./components/Home";
 
 function App() {
 
@@ -14,15 +20,15 @@ function App() {
 
 
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          {!data ? "Loading..." : data}
-        </p>
-       
-      </header>
-    </div>
+    <main className="text-gray-400 bg-gray-900 body-font">
+      <Navbar />
+      <Home />
+      <Skills />
+      <Projects />
+      <About />
+      <Contact />
+    </main>
+    
   );
 }
 
