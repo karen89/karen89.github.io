@@ -1,4 +1,3 @@
-# karen89.github.io
 
 ---
 
@@ -6,9 +5,9 @@
 
 ## About me
 
-🌟 QA Engineer since 2020.
+<p> 🌟 QA Engineer since 2020. </p>
 
- ✍🏼 Writer in my personal blog [karenvltics](https://karenvltics.blogspot.com/).
+<p> ✍🏼 Writer in my personal blog [karenvltics](https://karenvltics.blogspot.com/). </p>
 
 </div>
 
